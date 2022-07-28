@@ -3,7 +3,7 @@
 ![alt text](https://raw.githubusercontent.com/ivan-er-dev/design-art-drawing/main/lufi.png "Lufi Smiling")
 <sub>"Monkey D Luffy (One Piece) Smiling"</sub>
 
-https://raw.githubusercontent.com/ivan-er-dev/design-art-drawing/main/lufi.png
+</br>
 
 ![alt text](https://raw.githubusercontent.com/ivan-er-dev/pixel-art/main/dino-summer-pixel-art.png "Chrome Dino Vacations")
 <sub>"The Vacations of the Chrome Dino"</sub>
